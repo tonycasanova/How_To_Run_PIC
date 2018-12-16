@@ -1,1 +1,0 @@
-pic example.pic | groff >  example.pic.ps
