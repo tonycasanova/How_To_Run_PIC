@@ -1,1 +1,3 @@
 pic example.pic | groff >  example.pic.ps
+
+# Then open should convert to pdf automatically on Apple Mac.
